@@ -1,0 +1,4 @@
+# 仅打包时需要
+pyinstaller>=6.0
+requests>=2.28.0
+appdirs>=1.4.4

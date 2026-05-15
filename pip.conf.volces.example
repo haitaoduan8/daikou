@@ -1,0 +1,3 @@
+[global]
+index-url = https://mirrors.volces.com/pypi/simple/
+trusted-host = mirrors.volces.com

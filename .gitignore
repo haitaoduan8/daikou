@@ -1,0 +1,10 @@
+deduct_audit.log
+orders_out.json
+repayment_plan.json
+ayidai_gui_log.txt
+*.pyc
+__pycache__/
+.venv/
+build/
+dist/
+*.spec.bak
